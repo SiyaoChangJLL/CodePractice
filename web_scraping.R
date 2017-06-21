@@ -1,5 +1,5 @@
 
-## PS3 P2 Debate Scripts
+## P2 Debate Scripts
 ## a)
 
 library(XML)
